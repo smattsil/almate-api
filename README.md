@@ -1,5 +1,5 @@
 # almate-api
-<a>
+<a href="https://stats.uptimerobot.com/0HCIzTy1EG">
   <img src="https://img.shields.io/uptimerobot/status/m797812954-379b9dcf1f052bb431a84020" alt="UptimeRobot Badge">
 </a>
 
